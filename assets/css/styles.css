@@ -38,12 +38,11 @@ body {
 	text-align: center;
 }
 
-.featured-hdr {
+.featured-hdr, .hero-hdr {
 	margin-top: 15px;
 }
 
-.featured-img,
-.hero-img {
+.featured-img, .hero-img {
     border: 1px solid #dae3e7;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
