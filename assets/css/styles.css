@@ -5,6 +5,23 @@ body {
 	font-family: 'Montserrat', sans-serif;
 }
 
+a {
+	color: #3AAA64;
+	-moz-transition: all 0.4s ease-in-out;
+	-ms-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	-webkit-transition: all 0.4s ease-in-out;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #2d844e;
+}
+
+a:focus {
+	text-decoration: none;
+}
+
 /* End Global Styles */
 
 .header {
