@@ -2,6 +2,11 @@
 	margin: 30px 0;
 }
 
+.header-text {
+	align-self: center;
+	text-align: right;
+}
+
 .hero-img {
 	width: 100%;
 }
@@ -13,11 +18,6 @@
 .featured-item {
 	margin-bottom: 30px;
 	text-align: center;
-}
-
-.header-text {
-	align-self: center;
-	text-align: right;
 }
 
 @media screen and (max-width: 767.98px) {
