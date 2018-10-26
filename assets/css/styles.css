@@ -41,6 +41,29 @@ a:focus {
 .header-title {
 	color: #778492;
 }
+
+.header-social a {
+	background: #b0b7bf;
+	color: #fff;
+	font-size: 24px;
+	margin-top: 10px;
+	width: 35px;
+	height: 35px;
+	display: inline-block;
+	text-align: center;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;
+	border-radius: 50%;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.header-social a:hover {
+	background: #778492;
+}
 /* END HEADER */
 
 /* MAIN CONTENT */
