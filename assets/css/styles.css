@@ -9,10 +9,12 @@ body {
 
 .header-text {
 	align-self: center;
+	margin-top: 15px;
 	text-align: right;
 }
 
 .hero-img {
+	margin-top: 15px;
 	width: 100%;
 }
 
@@ -22,7 +24,12 @@ body {
 
 .featured-item {
 	margin-bottom: 30px;
+	margin-top: 15px;
 	text-align: center;
+}
+
+.featured-hdr {
+	margin-top: 15px;
 }
 
 @media screen and (max-width: 767.98px) {
