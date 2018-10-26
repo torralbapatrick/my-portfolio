@@ -8,4 +8,20 @@
 
 .featured-item {
 	margin-bottom: 30px;
+	text-align: center;
+}
+
+.header-text {
+	align-self: center;
+	text-align: right;
+}
+
+@media screen and (max-width: 767.98px) {
+	.container {
+		text-align: center;
+	}
+
+	.header-text {
+		text-align: center;
+	}
 }
