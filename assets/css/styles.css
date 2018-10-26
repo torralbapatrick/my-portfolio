@@ -1,7 +1,11 @@
+/* Global Styles */
+
 body {
 	background: #f5f5f5;
 	font-family: 'Montserrat', sans-serif;
 }
+
+/* End Global Styles */
 
 .header {
 	margin: 30px 0;
@@ -30,6 +34,12 @@ body {
 
 .featured-hdr {
 	margin-top: 15px;
+}
+
+.featured-img,
+.hero-img {
+    border: 1px solid #dae3e7;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 @media screen and (max-width: 767.98px) {
