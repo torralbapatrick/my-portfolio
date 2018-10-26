@@ -22,6 +22,12 @@ body {
 	width: 100%;
 }
 
+.hero a:hover, .featured-item a:hover {
+	-webkit-opacity: 0.7;
+	-moz-opacity: 0.7;
+	opacity: 0.7;
+}
+
 .featured {
 	margin-top: 30px;
 }
