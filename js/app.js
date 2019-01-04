@@ -14,4 +14,10 @@ jQuery(document).ready(function($) {
     
     /* Bootstrap Tooltip for Skillset */
     $('.level-label').tooltip();
+
+    /* Github Activity Feed */
+    GitHubActivity.feed({
+		username: "torralbapatrick",
+		selector: "#ghfeed"
+	});
 });
